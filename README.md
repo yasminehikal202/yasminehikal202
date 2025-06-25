@@ -23,8 +23,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasminehikal202)](https://git.io/streak-stats)
 
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yasminehikal202&theme=github)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasminehikal202&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasminehikal202&theme=default)
 
