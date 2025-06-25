@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Yasmine Hikal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About me
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px height ="200px"/>
 
 - 🌱 I’m **Senior Backend developer**
 
