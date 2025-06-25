@@ -20,7 +20,6 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminehikal202&show_icons=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminehikal202&layout=compact)
 
 ---
 
